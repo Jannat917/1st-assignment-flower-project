@@ -327,4 +327,47 @@ height: 449px;
 background-repeat: no-repeat;
 
 padding-top: 80px;
+padding-bottom: 100px;
+}
+
+/* Footer Section Style */
+
+.footer-section-title{
+
+    color: #E55473;
+font-size: 48px;
+font-weight: 800;
+
+}
+.footer-span{
+    color: #FFFFFF;
+}
+
+.footer-section-p{
+
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400px;
+
+}
+
+.footer-section-h6{
+
+color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+}
+
+.footer-section-container{
+padding-top: 150px;
+    background-color: #111010;
+    text-align: center;
+height: 450px;
+
+padding-right: 400px;
+padding-left: 400px;
+
+
 }
