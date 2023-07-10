@@ -8,11 +8,11 @@
  .header-title{
 
     color: #272727;
-font-size: 80px;
+font-size: 50px;
 font-weight: 800;
 
 display: flex;
-width: 708px;
+width: 500px;
 flex-direction: column;
 flex-shrink: 0;
 
@@ -24,11 +24,9 @@ flex-shrink: 0;
 font-size: 18px;
 font-weight: 400;
 line-height: 30px;
-
 display: flex;
-width: 634px;
-flex-direction: column;
-flex-shrink: 0;
+width: 400px;
+
  }
 
  .header-button{
@@ -44,8 +42,8 @@ border: 0;
  }
 
  .header-img{
- width: 635px;
-height: 800px;
+ width: 500px;
+height: 750px;
 flex-shrink: 0;
  }
 
@@ -54,6 +52,7 @@ flex-shrink: 0;
     display: flex;
     justify-content: space-around;
     background-color: rgba(229, 84, 115, 0.10);
+  
  }
    /* Main Section-1 Styles*/
 
@@ -131,14 +130,79 @@ background-color: rgba(5, 151, 160, 0.15);
 
 .main-section-1-column-container{
 
-    width: 1920px;
-    height: 4867px;
 
+    width: 1200px;
+    height: 1500px;
     display: flex;
     justify-content: space-around;
     text-align: center;
     gap: 24px;
+padding-left: 80px;
+padding-right: 100px;
 
 
 }
 
+/*Main Section 2*/
+
+.main-section-2{
+
+    display: flex;
+    justify-content: space-around;
+height: 620px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+
+
+}
+
+.main-section-2-title{
+
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-top: 200px;
+padding-left: 150px;
+}
+
+.off{
+  color:  #E55473;
+}
+
+.main-section-2-p{
+
+    display: flex;
+width: 594px;
+flex-direction: column;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+padding-left: 140px;
+}
+
+
+.main-section-2-button{
+    padding: 20px 43px;
+    border-radius: 8px;
+background-color: #E55473;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+border: 0px;
+}
+
+.main-section-2-button-div{
+    padding-left: 360px;
+}
+
+.main-section-2-img-1{
+
+padding-top: 100px;
+
+width: 318px;
+height: 420px;
+flex-shrink: 0;
+}
