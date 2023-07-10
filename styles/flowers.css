@@ -211,7 +211,7 @@ height: 420px;
 flex-shrink: 0;
 }
 
-/* Main SEction 3 Styles*/
+/* Main Section 3 Styles*/
 
 .main-section-3-title{
 
@@ -253,4 +253,78 @@ height: 396px;
 width: 1420;
 
 padding-top: 180px;
+
+padding-bottom: 200px;
+}
+
+/*Main Section 4 Styles*/
+
+.main-section-title{
+
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+
+.main-section-4-p{
+
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
+.main-section-4-input{
+    width: 700px;
+height: 64px;
+
+color: rgba(39, 39, 39, 0.60);
+text-align: left;
+font-size: 16px;;
+font-weight: 400;
+border: 0;
+border-radius: 8px;
+}
+
+.section-4-input{
+padding-left: 220px;
+}
+.section-4-button{
+
+    width: 150px;
+height: 64px;
+border-radius: 8px;
+background-color: #E55473;
+
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+border: 0;
+
+}
+
+.section-4-button-div{
+
+    padding-right: 250px;
+}
+.section-4-input-submit-container{
+
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    gap: 15px;
+}
+
+.main-section-4{
+
+    background-image: url('../Flower\ Asset/rectangle 9.png');
+    background:cover;
+
+    width: 1440px;
+height: 449px;
+background-repeat: no-repeat;
+
+padding-top: 80px;
 }
