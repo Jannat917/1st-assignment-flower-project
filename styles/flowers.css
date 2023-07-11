@@ -10,31 +10,22 @@
     color: #272727;
 font-size: 50px;
 font-weight: 800;
-
-display: flex;
 width: 500px;
-flex-direction: column;
-flex-shrink: 0;
-
  }
 
  .header-p{
 
-    color: rgba(39, 39, 39, 0.60);
+color: rgba(39, 39, 39, 0.60);
 font-size: 18px;
 font-weight: 400;
 line-height: 30px;
-display: flex;
 width: 400px;
 
  }
 
  .header-button{
-
-    display: inline-flex;
-padding: 20px 43px;
-align-items: flex-start;
-gap: 10px;
+ padding: 20px 43px;
+ gap: 10px;
 border-radius: 8px;
 background: #E55473;
 color: #FFFFFF;
@@ -44,7 +35,7 @@ border: 0;
  .header-img{
  width: 500px;
 height: 750px;
-flex-shrink: 0;
+
  }
 
  .section-header-container{
@@ -70,7 +61,6 @@ width: 1300px;
 text-align: center;
 font-size: 40px;
 font-weight: 800;
-height: x;
 padding: 8px;
    }
 
@@ -222,7 +212,7 @@ padding-top: 100px;
 
 width: 318px;
 height: 420px;
-flex-shrink: 0;
+
 }
 
 /* Main Section 3 Styles*/
